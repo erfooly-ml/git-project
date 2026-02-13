@@ -9,4 +9,5 @@ class Emp:
 
     def increase_salary(self):
         self.salary *= Emp.increase_rate
+#comment for test 
 
